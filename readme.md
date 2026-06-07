@@ -15,3 +15,6 @@
 
 ![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781617295263.jpg)
 
+
+[Deep Learning with Python](https://deeplearningwithpython.io/)
+
