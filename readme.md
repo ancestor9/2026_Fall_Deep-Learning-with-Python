@@ -17,4 +17,5 @@
 
 
 [Deep Learning with Python](https://deeplearningwithpython.io/)
+![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
