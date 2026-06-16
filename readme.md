@@ -1,7 +1,8 @@
 ### 학습 내용
-- scikit-learn
-- pytorch : Image data
-- [딥 러닝을 이용한 자연어 처리 입문 - RAG, 에이전트, 파인튜닝까지](https://wikidocs.net/book/2155)
+- scikit-learn, pytorch : Image data
+- pytorch 개념을 통해 Keras로 이미지와 텍스트 코딩과 실전연습하기 (Langchain은 3학년에)
+- [딥 러닝을 이용한 자연어 처리 입문 - RAG, 에이전트, 파인튜닝까지 : 1 교과목](https://wikidocs.net/book/2155)
+- Deep Learning with python, Object Detection(YOLO) 까지 2 교과목
 - [tensorflow:시계열예측](https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko)
 
 
