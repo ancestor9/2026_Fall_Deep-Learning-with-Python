@@ -15,6 +15,7 @@
 ![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781617295263.jpg)
 
 
-[Deep Learning with Python](https://deeplearningwithpython.io/)
+[Deep Learning with Python_book](https://deeplearningwithpython.io/)
+[Deep Learning with Python_github](https://github.com/fchollet/deep-learning-with-python-notebooks)
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
