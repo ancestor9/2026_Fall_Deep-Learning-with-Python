@@ -5,7 +5,7 @@
 - Deep Learning with python, Object Detection(YOLO) 까지 2 교과목
 - [tensorflow:시계열예측](https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko)
 
-
+-[Pokemon Fine Tuning](https://github.com/jihongleejihong/pok8mon_go)
 
 [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
 ![](https://www.oreilly.com/covers/urn:orm:book:9798341607972/300w/)
