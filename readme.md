@@ -1,3 +1,11 @@
+### 학습 교재
+
+- [Deep Learning with Python_online book](https://deeplearningwithpython.io)
+- [Deep Learning with Python_PDF](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)
+- [Deep Learning with Python_github](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
+
 ### 학습 내용
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [deep-learning](https://www.geeksforgeeks.org/deep-learning/deep-learning-tutorial/)
@@ -12,9 +20,4 @@
 
 [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code/tree/master)
 ![](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781617295263.jpg)
-
-
-[Deep Learning with Python_book](https://deeplearningwithpython.io/)
-[Deep Learning with Python_github](https://github.com/fchollet/deep-learning-with-python-notebooks)
-![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
