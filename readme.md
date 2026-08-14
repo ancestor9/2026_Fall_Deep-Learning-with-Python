@@ -6,7 +6,7 @@
 
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
-### 학습 부교재
+### 참고 교재(Optional)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [deep-learning](https://www.geeksforgeeks.org/deep-learning/deep-learning-tutorial/)
 - [딥 러닝을 이용한 자연어 처리 입문 - RAG, 에이전트, 파인튜닝까지 : 1 교과목](https://wikidocs.net/book/2155)
