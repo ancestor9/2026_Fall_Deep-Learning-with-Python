@@ -7,7 +7,7 @@
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
 
-### 딥러닝을 배우고 ---> [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) 을 배우고 ---> Langchain(AI Agent)
+### 1. 딥러닝을 배우고 ---> [2. Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) 을 배우고 ---> 3. Langchain(AI Agent)
 
 ### 참고 교재(Optional)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
