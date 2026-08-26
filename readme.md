@@ -7,7 +7,7 @@
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
 
-### Deep Learning -> LLM -> Langchain 학습 순서
+### Deep Learning -> LLM -> Langchain 의 순서로 학습하기!
 1. 딥러닝 ---> [2. Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ---> [3. Langchain(AI Agent)](https://github.com/ancestor9/2026_Fall_Learning-Langchain-AI-Agent)
 
 ### 참고 교재(Optional)
