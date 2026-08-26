@@ -6,6 +6,9 @@
 
 ![](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9781617294433.jpg)
 
+
+### [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) 을 배우고 ---> Langchain
+
 ### 참고 교재(Optional)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [deep-learning](https://www.geeksforgeeks.org/deep-learning/deep-learning-tutorial/)
