@@ -1,0 +1,1 @@
+[구글의 AI 낙서 맞추기 게임인 'Quick, Draw!'의 공개 데이터셋을 Google Cloud Storage에서 조회](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22)))
