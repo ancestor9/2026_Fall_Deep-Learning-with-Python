@@ -19,3 +19,9 @@
 - [Pokemon Fine Tuning](https://github.com/jihongleejihong/pok8mon_go)
 
 
+https://github.com/ancestor9/2026_Fall_Deep-Learning-with-Python
+
+
+
+여기 내용을 readme.md 로 요약해서 마크다운 형식으로 작성해줘
+
